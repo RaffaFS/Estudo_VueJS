@@ -1,0 +1,7 @@
+// Após a instalação do Vue ele já nos dá um ambiente completo e configurado
+// para trabalharmos, porém para começarmos realmente a criar nosso projeto
+// precisamos antes fazer uma limpeza geral:
+
+// 1. Excluindo os "assets" e os "components"
+// 2. Apagando o conteúdo de "script", "template" e "style" no "App.vue"
+// 3. Apagando o import do main.css que acontece dentro do "main.js"
